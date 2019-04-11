@@ -1,1 +1,11 @@
 = Ansible Tower Multi-Cloud Demo
+
+This org keeps content I use for multi-cloud demos. Means to show application deployments to different cloud providers, AWS and Azure for now.
+
+== Demo 1
+
+Not really multi cloud....
+
+* Show how to create a simple AWS instance job template
+* Use survey to ask for number of instances
+* Create restricted user to execute template
