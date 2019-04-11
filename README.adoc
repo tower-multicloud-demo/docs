@@ -4,8 +4,25 @@ This org keeps content I use for multi-cloud demos. Means to show application de
 
 == Demo 1
 
-Not really multi cloud....
+Not really multi cloud...
 
 * Show how to create a simple AWS instance job template
 * Use survey to ask for number of instances
 * Create restricted user to execute template
+
+== Demo 2
+
+Use Playbooks in repos 
+
+* deploystack-azure
+* deploystack-aws
+
+to use different roles for AWS/Azure instance deployment and afterwards the same role for application deployments.
+
+= Demo 3
+
+Create workflow in Tower to:
+
+* Run Template for instance deployment on AWS _or_ Azure
+* Then run dynamic inventory update
+* Then run application deployment Template
