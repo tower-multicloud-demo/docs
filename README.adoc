@@ -1,8 +1,7 @@
 = Ansible Tower Multi-Cloud Demo
 
-This org keeps content I use for multi-cloud demos. Means to show application deployments to different cloud providers, AWS and Azure for now.
-
-Goal is to have an *easy to understand/follow*  (aka as not too complex) demo of deploying applications to different cloud providers.
+This org keeps content I use for multi-cloud demos. 
+Goal is to have an *easy to understand/follow*  (aka as not too complex) demo of deploying applications to different cloud providers. AWS and Azure for now.
 
 == Demo 1
 
