@@ -12,12 +12,12 @@ Not really multi cloud...
 
 == Demo 2
 
-Use Playbooks in repos 
+Use toplevel Playbooks to deploy full stacks: 
 
 * deploystack-azure
 * deploystack-aws
 
-to use different roles for AWS/Azure instance deployment and afterwards the same role for application deployments.
+Use different roles for AWS/Azure instance deployment and afterwards the same role for application deployments.
 
 == Demo 3
 
